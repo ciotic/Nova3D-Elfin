@@ -6,6 +6,7 @@
 - Add a safe eject button for the USB stick (curretly making the usb sticks show false errors) *(Nume1977)*
 - Add command for downloading a file from the printer memory *(x3msnake)*
 - Add the possibility to update the factory light compensation map via a update file of some kind *(x3msnake)*
+- Add the possibility to cancel the movement on Z 
 
 ### FIRMWARE UI
 - Fix the small button size of most UI menus [see photo](https://user-images.githubusercontent.com/11083514/78594553-6ec70c00-7840-11ea-8647-984614d08050.png) *(x3msnake)*
